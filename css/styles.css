@@ -158,7 +158,9 @@ padding: 24px 0 ;
     color: #FFFFFF;
     background-color: #404BBF;
 }
-
+.visually-hidden{
+    overflow: hidden;
+}
 .hidden-item-title {
     font-weight: 500;
     font-size: 20px;
